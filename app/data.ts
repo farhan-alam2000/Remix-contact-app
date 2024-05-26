@@ -98,6 +98,13 @@ export async function deleteContact(id: string) {
 [
   {
     avatar:
+      "https://media.licdn.com/dms/image/D5603AQFYm15uvGFjcw/profile-displayphoto-shrink_800_800/0/1671016603245?e=1722470400&v=beta&t=E9CD24DHZX8mr-HFuW9MiMwoNJAvIQibQ7J6uG1pWbI",
+    first: "Farhan",
+    last: "Alam",
+    twitter: "@farhanalam2000",
+  },
+  {
+    avatar:
       "https://sessionize.com/image/124e-400o400o2-wHVdAuNaxi8KJrgtN3ZKci.jpg",
     first: "Shruti",
     last: "Kapoor",
